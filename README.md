@@ -41,3 +41,7 @@ Programmable stopwatch/timer implemented in Verilog for the Basys3 FPGA featurin
 - Verilog
 - Vivado
 - Basys3 FPGA
+
+## Media
+
+- https://youtu.be/XSBvUrG0hxc
